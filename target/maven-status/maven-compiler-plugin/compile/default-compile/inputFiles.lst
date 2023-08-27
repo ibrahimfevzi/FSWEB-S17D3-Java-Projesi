@@ -1,0 +1,11 @@
+/Users/ibrahimkayan/Workintech-Repos/JAVA/Sprint-5/FSWEB-S17D3-Java-Projesi/src/main/java/com/workintech/zoo/entity/Koala.java
+/Users/ibrahimkayan/Workintech-Repos/JAVA/Sprint-5/FSWEB-S17D3-Java-Projesi/src/main/java/com/workintech/zoo/controller/KangarooController.java
+/Users/ibrahimkayan/Workintech-Repos/JAVA/Sprint-5/FSWEB-S17D3-Java-Projesi/src/main/java/com/workintech/zoo/entity/Animal.java
+/Users/ibrahimkayan/Workintech-Repos/JAVA/Sprint-5/FSWEB-S17D3-Java-Projesi/src/main/java/com/workintech/zoo/entity/Gender.java
+/Users/ibrahimkayan/Workintech-Repos/JAVA/Sprint-5/FSWEB-S17D3-Java-Projesi/src/main/java/com/workintech/zoo/exceptions/AnimalErrorResponse.java
+/Users/ibrahimkayan/Workintech-Repos/JAVA/Sprint-5/FSWEB-S17D3-Java-Projesi/src/main/java/com/workintech/zoo/exceptions/RestExceptionHandler.java
+/Users/ibrahimkayan/Workintech-Repos/JAVA/Sprint-5/FSWEB-S17D3-Java-Projesi/src/main/java/com/workintech/zoo/exceptions/AnimalValidator.java
+/Users/ibrahimkayan/Workintech-Repos/JAVA/Sprint-5/FSWEB-S17D3-Java-Projesi/src/main/java/com/workintech/zoo/controller/KoalaController.java
+/Users/ibrahimkayan/Workintech-Repos/JAVA/Sprint-5/FSWEB-S17D3-Java-Projesi/src/main/java/com/workintech/zoo/exceptions/AnimalException.java
+/Users/ibrahimkayan/Workintech-Repos/JAVA/Sprint-5/FSWEB-S17D3-Java-Projesi/src/main/java/com/workintech/zoo/entity/Kangaroo.java
+/Users/ibrahimkayan/Workintech-Repos/JAVA/Sprint-5/FSWEB-S17D3-Java-Projesi/src/main/java/com/workintech/zoo/ZooApplication.java
